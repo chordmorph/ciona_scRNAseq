@@ -1,0 +1,9 @@
+working_dir=#path to working directory
+read1=#path to SAMPLE_trimmed_repaired_R1.fastq.gz
+read2=#path to SAMPLE_trimmed_repaired_R2.fastq.gz
+sample_name=#SAMPLE_NAME
+threads_num=16
+num_mismatches=17
+num_barcodes=2500
+read_group=#read group name
+library_name=#library name
